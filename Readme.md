@@ -1,4 +1,4 @@
-# This project ato study a Go language, is a simple calculator in terminal.
+# This project to study a Go language, is a simple calculator in terminal.
 
 # Run project
 
